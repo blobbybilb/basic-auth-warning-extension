@@ -16,5 +16,9 @@
       "js": ["popup.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "icons": {
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
 }
