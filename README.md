@@ -3,8 +3,8 @@
 Displays a warning when you are about to visit a URL that contains basic
 auth credentials, to help prevent possible phishing attacks.
 <br /><br />
-Clicking on a link to a URL like like
-<code>example.com@something.zip</code> would take you to a website with
+Clicking on a link to a URL like
+<code>example.com∕file@something.zip</code> would take you to a website with
 the domain something.zip, which may not be what you expect, and may
 allow an attacker to conduct a phishing attack by imitatiing
 example.com. This extension should display a warning when this is
