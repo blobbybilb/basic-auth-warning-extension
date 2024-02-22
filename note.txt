@@ -1,1 +1,0 @@
-The first draft got rejected for using `["webNavigation", "activeTab", "scripting"]` rather than just webNavigation, but at least in Arc having those two permissions lets it stop the page from loading while the popup is showing, not sure why. The chrome webstore version just has the webNavigation permission.
